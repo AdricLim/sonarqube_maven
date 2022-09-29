@@ -1,8 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,Song,120,0,12,0,29,0,18,0,12,0
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,Song.new Comparator() {...},21,0,4,0,3,0,4,0,2,0
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,Song.new Comparator() {...},9,0,0,0,2,0,2,0,2,0
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,Addition,0,7,0,0,0,2,0,2,0,2
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,SongCollection,93,0,10,0,23,0,13,0,8,0
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,MessageBuilder,0,32,0,4,0,7,0,4,0,2
-sddo_pdc1_sonarqube_maven.eclipse,com.sddevops.sonarqube_maven.eclipse,Calculation,4,18,1,1,1,5,1,4,0,4
