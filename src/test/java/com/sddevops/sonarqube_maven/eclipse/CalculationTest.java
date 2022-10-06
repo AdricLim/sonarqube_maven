@@ -37,17 +37,17 @@ public class CalculationTest {
     }
 
     @Test
-    @DisplayName("Simple add should work")
+    @DisplayName("Simple subtract should work")
     public void testAdd() {
-        assertEquals(9, calculation.add(4,5),
-                "Regular add should work");
+        assertEquals(4, calculation.subtract(9,5),
+                "Regular subtract should work");
     }
 
     @RepeatedTest(5)
-    @DisplayName("Ensure correct handling of zero in add")
-    public void testADDWithZero() {
-        assertEquals(5, calculation.add(0,5), "Add with zero should be zero");
-        assertEquals(5, calculation.add(5,0), "Add with zero should be zero");
+    @DisplayName("Ensure correct handling of zero in subtract")
+    public void testSUBTRACTWithZero() {
+        assertEquals(7, calculation.subtract(7,0), "Subtract with zero should be original number");
+        assertEquals(-7, calculation.subtract(0,7), "Subtract from zero should be negative of the original number");
     }
 
 //    @Test
