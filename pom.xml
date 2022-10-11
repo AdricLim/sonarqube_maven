@@ -96,7 +96,7 @@
 	            <!-- Generate token by login as admin User in your SonarQube site, 
 	            steps given below -->
 	            <!--
-	                 User > My Account > Security -> Enter Token Name
+	                 User > My Account > Security -> Enter Token Name 
 	                 Click the Generate button, you will see the token value.
 	                 (Copy it immediately; 
 	                 Once you dismiss the notification you will not be able to retrieve it.)
